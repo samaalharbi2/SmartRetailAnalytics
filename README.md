@@ -19,8 +19,8 @@ This project focuses on analyzing **retail customer behavior** to uncover action
 
 ## 🛠️ Tools & Technologies Used
 
-![Tools Used](https://www.smartdatacollective.com/wp-content/uploads/2018/11/top-7-data-analytics-tools-2019-860x561.jpg)
 
+<img src="https://www.smartdatacollective.com/wp-content/uploads/2018/11/top-7-data-analytics-tools-2019-860x561.jpg" alt="Tools Used" width="600">
 
 | Tool | Purpose |
 |------|----------|
