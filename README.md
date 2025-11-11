@@ -27,7 +27,7 @@ This project focuses on analyzing **retail customer behavior** to uncover action
 ---
 
 ### ⚙️ Tools Overview
-![Tools Used](https://raw.githubusercontent.com/marclamberti/data-analytics-tools/main/tools-banner.png)
+![Tools Used](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.smartdatacollective.com%2Ftop-7-data-analytics-tools%2F&psig=AOvVaw0mBtDfUwKpcW0bt9SKhSRU&ust=1762935008535000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLCc1PPS6ZADFQAAAAAdAAAAABAE)
 
 *(Image: Python, MySQL, Power BI — icons for the main tools used in this project)*
 
