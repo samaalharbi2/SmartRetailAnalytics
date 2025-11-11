@@ -18,18 +18,15 @@ This project focuses on analyzing **retail customer behavior** to uncover action
 ---
 
 ## 🛠️ Tools & Technologies Used
+
+![Tools Used](https://www.smartdatacollective.com/wp-content/uploads/2018/11/top-7-data-analytics-tools-2019-860x561.jpg)
+
+
 | Tool | Purpose |
 |------|----------|
 | 🐍 **Python** | Data cleaning, transformation, and EDA |
 | 🗄️ **MySQL** | Database management and querying |
 | 📊 **Power BI** | Data visualization and dashboard creation |
-
----
-
-### ⚙️ Tools Overview
-![Tools Used](https://www.smartdatacollective.com/wp-content/uploads/2018/11/top-7-data-analytics-tools-2019-860x561.jpg)
-
-*(Image: Python, MySQL, Power BI — icons for the main tools used in this project)*
 
 ---
 
