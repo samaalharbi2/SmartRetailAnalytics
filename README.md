@@ -8,6 +8,7 @@ This project represents a complete, industry-standard, end-to-end data analytics
 This project focuses on analyzing **retail customer behavior** to uncover actionable insights about purchasing patterns, customer segments, and sales trends. It demonstrates how to move from raw data to an interactive Power BI dashboard using Python, SQL, and Power BI.
 
 <img src="https://www.smartdatacollective.com/wp-content/uploads/2018/11/top-7-data-analytics-tools-2019-860x561.jpg" alt="Tools Used" width="600">
+
 ---
 
 ## 🗂️ Project Files
@@ -18,7 +19,7 @@ This project focuses on analyzing **retail customer behavior** to uncover action
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tools 
 
 
 
