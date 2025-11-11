@@ -20,7 +20,7 @@ This project focuses on analyzing **retail customer behavior** to uncover action
 ## 🛠️ Tools & Technologies Used
 | Tool | Purpose |
 |------|----------|
-| 🐍 **Python (Pandas, NumPy, Seaborn, Matplotlib)** | Data cleaning, transformation, and EDA |
+| 🐍 **Python** | Data cleaning, transformation, and EDA |
 | 🗄️ **MySQL** | Database management and querying |
 | 📊 **Power BI** | Data visualization and dashboard creation |
 
